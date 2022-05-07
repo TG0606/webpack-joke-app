@@ -1,6 +1,6 @@
 # webpack-joke-app
 
-https://jovial-hamster-1779d4.netlify.app
+Live demo: https://jovial-hamster-1779d4.netlify.app
 
 The app is a joke generator by using webpack with vanilla js.
 
