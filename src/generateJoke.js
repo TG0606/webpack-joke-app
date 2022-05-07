@@ -12,5 +12,6 @@ function generateJoke() {
     document.getElementById('joke').innerHTML = res.data.joke;
   });
 }
+generateJoke();
 
 export default generateJoke;
