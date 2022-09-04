@@ -1,8 +1,8 @@
 # webpack-joke-app
 
-Live demo: https://dontlaughchallengewithwebpack.netlify.app/
+Live demo: https://dontlaughchallengewithwebpack.netlify.app
 
-The app is a joke generator by using webpack with vanilla js.
+This website is a joke generator by using webpack with vanilla js.
 
 Includes the following features:
 
@@ -14,7 +14,7 @@ Includes the following features:
 - Source Maps
 - Caching
 
-  # Screenshot
+# Screenshot
 
 ![](src/assets/webpack.png)
 
